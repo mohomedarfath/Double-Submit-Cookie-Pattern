@@ -1,0 +1,70 @@
+*{
+	margin: 0;
+}
+body{
+
+    
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlKG-UwwdKMqy3kvOP5duj60DVOOuqXLNb7frwb17AKVDF3lJaTA");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form {
+   /* // border: 3px solid #f1f1f1; */
+    padding:10%;
+    
+
+
+}
+input[type=text], input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+h1{
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    background-color:rgb(rgb(28, 87, 91));
+    line-height: 150%;
+    border-radius: 8px 8px 0 0;
+    box-shadow: 0 2px 5px 1px rgba(0,0,0,0.2);
+    color: rgb(201, 201, 201);
+}
+.logb {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+  }
+  
+  .logb:hover {
+    opacity: 0.8;
+  }
+  label{
+    color: rgb(0, 0, 0);
+    padding: 8px;
+    font-family: Arial;
+  }
+  #msg{
+    width: 50%;
+    height: 100px;
+    padding: 10px;
+    background-color: #d0e2bc;
+    font: 1.4em/1.6em cursive;
+    color: #095484;
+  }
+  .subcom{
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+  }
